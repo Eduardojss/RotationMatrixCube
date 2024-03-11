@@ -19,6 +19,20 @@
 	<dependencies>
 
 		<dependency>
+			<groupId>org.processing</groupId>
+			<artifactId>core</artifactId>
+			<version>3.3.7</version>
+		</dependency>
+
+
+		<dependency>
+			<groupId>gov.nist.math</groupId>
+			<artifactId>jama</artifactId>
+			<version>1.0.3</version>
+		</dependency>
+
+
+		<dependency>
 			<groupId>org.ejml</groupId>
 			<artifactId>simple</artifactId>
 			<version>0.30</version>
